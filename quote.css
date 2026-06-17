@@ -58,3 +58,21 @@ button:hover{
 
     background-color:#372fcf;
 }
+
+#quote {
+  font-size: 26px;
+  font-style: italic;
+  text-align: center;
+
+  color: #1f2937; /* dark gray → always visible */
+
+  padding: 20px;
+  margin-top: 20px;
+
+  background: #f9fafb; /* light card */
+  border-radius: 12px;
+
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12);
+
+  transition: all 0.3s ease;
+}
